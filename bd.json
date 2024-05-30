@@ -1,1 +1,12 @@
-
+[
+    {
+        "nome": "Praia do Pina",
+        "bairro": "Zona Sul",
+        "tipo": "Praia"
+    },
+    {
+        "nome": "Parque das Esculturas de Brennand",
+        "bairro": "Recife Antigo",
+        "tipo": "Ponto historico"
+    }
+]
